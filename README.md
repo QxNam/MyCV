@@ -1,8 +1,8 @@
-#Hi, I’m Quách Xuân Nam
+# Hello everyone, I'm Quach Xuan Nam.
 
 **Contact with me:**
-* Facebook: _<https://www.facebook.com/quach.nam.123829>_
-* Zalo: 0398089311
-* Email: quachnam311@gmail.com
-* Phone number: 0398089311
+* __Facebook__: _<https://www.facebook.com/quach.nam.123829>_
+* __Zalo__: 0398089311
+* __Email__: quachnam311@gmail.com
+* __Phone number__: 0398089311
 
